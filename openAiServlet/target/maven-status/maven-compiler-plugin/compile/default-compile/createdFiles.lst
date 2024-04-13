@@ -1,0 +1,7 @@
+com\openAiServlet\servelt\GraphQLServlet$Config.class
+com\openAiServlet\SimpleDSComponent.class
+com\openAiServlet\servelt\OpenAI.class
+com\openAiServlet\job\SendRequestJob.class
+com\openAiServlet\servelt\WhatsAppServlet.class
+com\openAiServlet\job\SendRequestJob$1.class
+com\openAiServlet\servelt\GraphQLServlet.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="com.openAiServlet.servelt.WhatsAppServlet" immediate="true">
+  <implementation class="com.openAiServlet.servelt.WhatsAppServlet"/>
+  <service>
+    <provide interface="javax.servlet.Servlet"/>
+  </service>
+  <property name="sling.servlet.resourceTypes" type="String" value="/apps/shaft/whatsapp"/>
+  <property name="service.description" type="String" value="ESAPI Filter"/>
+  <property name="sling.servlet.methods" type="String" value="GET"/>
+</scr:component>

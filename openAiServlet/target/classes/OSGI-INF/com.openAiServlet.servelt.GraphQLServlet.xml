@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="com.openAiServlet.servelt.GraphQLServlet" immediate="true" activate="activate" modified="activate">
+  <implementation class="com.openAiServlet.servelt.GraphQLServlet"/>
+  <service>
+    <provide interface="javax.servlet.Servlet"/>
+  </service>
+  <property name="graphql.url" type="String" value="https://staging-vdt2zeq-eqo7vpusx3do2.ap-4.magentosite.cloud/graphql"/>
+  <property name="sling.servlet.resourceTypes" type="String" value="/apps/shaft/graphql"/>
+  <property name="service.description" type="String" value="GraphQL API"/>
+  <property name="sling.servlet.methods" type="String">POST
+GET</property>
+</scr:component>

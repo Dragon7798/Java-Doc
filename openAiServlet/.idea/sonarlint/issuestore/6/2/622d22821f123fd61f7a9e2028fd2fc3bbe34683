@@ -1,0 +1,46 @@
+
+†	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$00a8fbec-31ca-470d-b91a-88c7afc570e5
+‡	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$4f73749b-f07c-4752-970b-f4f078c18dd8
+‡	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$93d8ce82-4906-4684-af50-0702a15cd72d
+†
+java:S1192]"JDefine a constant instead of duplicating this literal "[.][^.]+$" 3 times.(å¡ÁJ$433e940d-285e-429c-8c09-3b4dceb748a3
+•	java:S135¾"YReduce the total number of break and continue statements in this loop to use at most one.(šıò¬J$dad0c42f-2b47-49ef-9e6b-47148380923b
+v
+java:S1141k"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$1ee65fa6-7b31-4690-9e83-44fb4cd5bea3
+ˆ
+java:S2184Ñ"FCast one of the operands of this multiplication operation to a "long".(«ÍÑ±üÿÿÿÿJ$76437a3d-cb3f-4d28-9301-451f0c4b0fbe
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ ™ËşÿÿÿÿJ$f104ccf3-ae7b-4bf9-ba22-6f8732460ff1
+Š
+java:S2259å"MA "NullPointerException" could be thrown; "compilationUnit" is nullable here.(¤ÌÛèJ$e4b70169-67d9-460c-8c0a-29ce7622bb86
+
+java:S20958"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿJ$78f547d9-825e-4141-89c1-9c1050f009ef
+
+java:S2095ò"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(à“åûøÿÿÿÿJ$721c96c0-a886-4d8b-960d-5634c3940564
+Œ	java:S116."QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢J$12aa06ce-1b30-4322-96b9-1cdc01ee4e7e
+{	java:S899Z"@Do something with the "boolean" value returned by "setReadable".(Æ®ëíJ$c7d5fc03-cccc-41cd-a804-3c2eec7ebf87
+{	java:S899["@Do something with the "boolean" value returned by "setWritable".(«áŸ°J$245215ff-a965-4a3a-bfd1-a24f4910bb8c
+{	java:S899`"@Do something with the "boolean" value returned by "setWritable".(«Š»›J$316e3ffc-9fb0-4e41-8754-3cfeb69f7d29
+{	java:S899a"@Do something with the "boolean" value returned by "setReadable".(ËÏªàJ$29cfb957-4818-404b-861d-c78ad53876d8
+b
+java:S1075h"&Remove this hard-coded path-delimiter.(âŠÆºJ$77881694-3ed2-4638-b259-9ca6e0735717
+k	java:S106t"+Replace this use of System.out by a logger.(ÎòŞ¾ùÿÿÿÿJ$38c5eb73-3261-451d-9b29-f0c8adb4e9fc
+¹
+java:S1130„"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÈôıÒüÿÿÿÿJ$86fc56c4-2c16-409e-9e67-c068bc9bc161
+i
+java:S1602Œ",Remove useless curly braces around statement(å—ø°J$e0516d41-77e6-49ae-883c-973a4a3eb08f
+t
+java:S1874§"2Remove this use of "JsonParser"; it is deprecated.(¸¹ãÙúÿÿÿÿJ$2a51919a-c9ba-4dc4-8630-1391fbf44d38
+o
+java:S1874§"-Remove this use of "parse"; it is deprecated.(¸¹ãÙúÿÿÿÿJ$023389be-3654-459a-85c0-0462f6bf69ca
+t
+java:S1874«"2Remove this use of "JsonParser"; it is deprecated.(¸¹ãÙúÿÿÿÿJ$ab1479d1-6dfe-4d59-bb80-fc59e59f3ff1
+o
+java:S1874«"-Remove this use of "parse"; it is deprecated.(¸¹ãÙúÿÿÿÿJ$78cabfa1-a287-4e21-8f40-cf7b922ee7d7
+
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(È•‰J$9cc46b5e-8f3b-41fe-bf97-98e0d8bdd3ed
+k
+java:S1940Á")Use the opposite operator ("<=") instead.(ÖçàğşÿÿÿÿJ$75fba388-e0f2-4d9a-bc21-579b50e23f7b
+›
+java:S2142Ò"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$83a955d9-2830-4dbe-b463-3d4ac294464e
+x	java:S125ß"<This block of commented-out lines of code should be removed.(Ÿ¾ëñJ$408eb543-0dec-44ab-a426-e819d41c3c81
+x	java:S125ê"<This block of commented-out lines of code should be removed.(ïØåğJ$518e32a4-967b-4c62-aa86-07bd3dfe5f28

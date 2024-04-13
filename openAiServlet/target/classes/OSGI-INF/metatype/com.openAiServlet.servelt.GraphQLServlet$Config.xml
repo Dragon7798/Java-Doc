@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.2.0" localization="OSGI-INF/l10n/com.openAiServlet.servelt.GraphQLServlet$Config">
+  <OCD id="com.openAiServlet.servelt.GraphQLServlet$Config" name="GraphQL Configurations" description="">
+    <AD id="graphql.url" type="String" name="GraphQL Base URL" description="GraphQL URL used for queries" default="https://staging-vdt2zeq-eqo7vpusx3do2.ap-4.magentosite.cloud/graphql"/>
+  </OCD>
+  <Designate pid="com.openAiServlet.servelt.GraphQLServlet">
+    <Object ocdref="com.openAiServlet.servelt.GraphQLServlet$Config"/>
+  </Designate>
+</metatype:MetaData>

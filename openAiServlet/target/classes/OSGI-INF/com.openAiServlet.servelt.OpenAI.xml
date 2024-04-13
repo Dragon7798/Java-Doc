@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="com.openAiServlet.servelt.OpenAI" immediate="true">
+  <implementation class="com.openAiServlet.servelt.OpenAI"/>
+  <service>
+    <provide interface="javax.servlet.Servlet"/>
+  </service>
+  <reference name="jobManager" interface="org.apache.sling.event.jobs.JobManager" field="jobManager"/>
+  <property name="sling.servlet.resourceTypes" type="String" value="/apps/shaft/gpt"/>
+  <property name="service.description" type="String" value="ESAPI Filter"/>
+  <property name="sling.servlet.methods" type="String">POST
+GET</property>
+</scr:component>

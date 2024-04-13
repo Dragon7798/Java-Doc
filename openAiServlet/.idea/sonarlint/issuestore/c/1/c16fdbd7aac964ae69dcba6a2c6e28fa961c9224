@@ -1,0 +1,71 @@
+
+ˆ	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(ü·›Ã8º‡—Ÿê1J$0fdd6c0d-9671-4da8-91c4-a9f76fdfc0bf
+	java:S112÷"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾‡—Ÿê1J$3529608c-971f-4bfb-abf3-e518c129ad2a
+	java:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8À‡—Ÿê1J$13e73355-a2d0-4211-b33a-e0b11efbebc9
+“
+java:S1192—"JDefine a constant instead of duplicating this literal "statusUrl" 4 times.(›õÅäùÿÿÿÿ8Î‡—Ÿê1J$0b90cd42-4848-4db3-a2b2-ab037909f545
+‘
+java:S1192—"HDefine a constant instead of duplicating this literal "?token=" 4 times.(›õÅäùÿÿÿÿ8×‡—Ÿê1J$d7aad6f7-1ee2-4eee-9d06-fb0465ba590c
+
+java:S1192®"JDefine a constant instead of duplicating this literal "[.][^.]+$" 3 times.(å¡Á8Ş‡—Ÿê1J$b4e18a90-20ba-4dd5-ba7c-68714206f68d
+•
+java:S1192‰"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ªŞÃı8å‡—Ÿê1J$a546a083-b19d-435e-b3ad-fc2d053cafe4
+¡
+java:S1192š"XDefine a constant instead of duplicating this literal "Failed to Read the File" 3 times.(–Å÷Ÿÿÿÿÿÿ8ë‡—Ÿê1J$b17c5a58-56f6-486a-91d1-f2a47aa04028
+~
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8„ˆ—Ÿê1J$becedaef-ab90-4e67-973d-5c72de7b731e
+~
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8…ˆ—Ÿê1J$437eb0ba-5ec9-4a83-8c39-5fa47a35758c
+y
+java:S1141°"5Extract this nested try block into a separate method.(¯ñËÛ8†ˆ—Ÿê1J$26e6ac89-6215-482e-9275-f8823469a0d8
+”	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èù€–8Ÿˆ—Ÿê1J$83c17c45-a58b-4f3a-8b30-1d8b1b3362bf
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™¿¶8æ—«¸û0J$6ea9a961-36bb-4349-8fdb-3ead20f0ab5c
+‘
+java:S2095³"MUse try-with-resources or close this "ZipOutputStream" in a "finally" clause.(Ê¥ƒå8ó—Ÿê1J$8962f5f6-7123-41ae-8e00-9bd2fa248829
+–
+java:S2095Ò"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(šğÁíüÿÿÿÿ8ô—Ÿê1J$7b908b90-decb-4856-b7f1-98d3a1dd11e4
+•
+java:S2095["MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8”˜«¸û0J$414a337b-d4a9-4d66-83ea-ca8c3f5c53ac
+‘
+java:S2095¶"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰öÎ8ñ—Ÿê1J$373102f5-f694-4b27-9618-dd2704c30549
+¡	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆµÄúÿÿÿÿ8€‘—Ÿê1J$6e62540d-4d32-48b3-ad3b-13a66e224099
+˜	java:S1166"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûúĞöûÿÿÿÿ8„‘—Ÿê1J$33d02061-7dc7-479c-85a8-eababa0100d0
+p
+java:S19486"(Make "LOGGER" transient or serializable.(ûúĞöûÿÿÿÿ8œ‘—Ÿê1J$d622e857-687b-430b-a76c-754e5839a593
+o
+java:S19488",Make "jobManager" transient or serializable.(”¬´¨8Ÿ‘—Ÿê1J$1d3f1dc1-4e2b-45a9-b8f6-81fe929bba11
+a
+java:S5542<"Use a secure cipher mode.(Ü øùÿÿÿÿ8¼‘—Ÿê1J$12975445-e657-4e53-b524-43804581adad
+a
+java:S5542D"Use a secure cipher mode.(Ü øùÿÿÿÿ8Ç‘—Ÿê1J$59c313b4-c553-4325-81a4-958fcdf49b77
+}	java:S125v"<This block of commented-out lines of code should be removed.(¯‹æe8Ó’—Ÿê1J$2bdf1b99-6eab-46e6-b93a-dd7b73fa65ec
+š
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(„×Å¸şÿÿÿÿ8ì’—Ÿê1J$3534e564-0200-4176-a78e-243763794cd9
+‘
+java:S5361€"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÍÑÛğÿÿÿÿÿ8ø’—Ÿê1J$10cb6f2f-39c1-47f4-b8ed-27677885dccb
+ƒ	java:S899’"@Do something with the "boolean" value returned by "setReadable".(Æ®ëí8š“—Ÿê1J$af3601ec-4a55-48d8-be7a-368363043cde
+ƒ	java:S899“"@Do something with the "boolean" value returned by "setWritable".(«áŸ°8§“—Ÿê1J$36148f6f-e372-4302-a810-16dbe943c3e7
+ƒ	java:S899™"@Do something with the "boolean" value returned by "setWritable".(«Š»›8°“—Ÿê1J$24aac05c-3281-4573-ba90-b1ff037f673c
+ƒ	java:S899š"@Do something with the "boolean" value returned by "setReadable".(ËÏªà8³“—Ÿê1J$c7ad6929-878b-4851-bb57-90d31df37087
+o
+java:S1075œ"&Remove this hard-coded path-delimiter.(¥ğŞ‚üÿÿÿÿ8¶“—Ÿê1J$90b79b9a-e838-43ba-b61a-8a841b319f32
+s	java:S106¦"+Replace this use of System.out by a logger.(ÎòŞ¾ùÿÿÿÿ8À“—Ÿê1J$4b2d728e-aed4-499d-bdb9-4ec2db1d7022
+j
+java:S1075¯"&Remove this hard-coded path-delimiter.(âŠÆº8É“—Ÿê1J$58e2cdc0-3e06-42fe-9c9c-2fce54871a41
+—
+java:S4042ç"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‰®èÛúÿÿÿÿ8ó“—Ÿê1J$2783bc88-e43a-41b1-b6e5-0d58c8b8f183
+s	java:S106é"+Replace this use of System.out by a logger.(²æˆÍûÿÿÿÿ8õ“—Ÿê1J$e5c2969f-b90e-4066-a272-52a17241e06f
+s	java:S106ë"+Replace this use of System.out by a logger.(Í›æûÿÿÿÿ8ı“—Ÿê1J$dec88921-6815-44e9-9dfc-62cd2cfe86e1
+›
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(¸Á·©şÿÿÿÿ8”—Ÿê1J$769a1b9b-924a-4ada-8a9e-712f240d4523
+‚
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.( ¿—8¸”—Ÿê1J$22b48d58-d21f-4fac-a7b0-d00bc3e60446
+ƒ	java:S899¦"@Do something with the "boolean" value returned by "setWritable".(¼ŒÂ±8Ğ”—Ÿê1J$a38562fc-6d3e-4b7b-8be9-cc8da6cbc6ad
+ˆ	java:S899§"@Do something with the "boolean" value returned by "setReadable".(¶Õ›©øÿÿÿÿ8Ó”—Ÿê1J$3201d22e-8874-4ecf-8d80-079ed575d194
+„	java:S125·"<This block of commented-out lines of code should be removed.(©ßßüÿÿÿÿ8ä”—Ÿê1J$13fff9fe-1ea5-46f6-bfa6-13eea633c632
+	java:S125Ä"<This block of commented-out lines of code should be removed.(—œ•Á8ğ”—Ÿê1J$c1a67f71-78c5-4fcf-b755-c10332b1042f
+{
+java:S1874Ğ"2Remove this use of "JsonParser"; it is deprecated.(Š±ÛŒÿÿÿÿÿ8†•—Ÿê1J$effb9647-228e-4fd2-94c5-c45613922a2f
+v
+java:S1874Ğ"-Remove this use of "parse"; it is deprecated.(Š±ÛŒÿÿÿÿÿ8ˆ•—Ÿê1J$0286c986-e682-4025-858a-08e3f23789ef
+s	java:S106î"+Replace this use of System.out by a logger.(’¥Ïøÿÿÿÿ8¤•—Ÿê1J$dadfbbb3-41d3-4edb-868d-18f474d70e43
